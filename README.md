@@ -15,3 +15,6 @@ LOADING...
 
 <a href="https://github.com/kebapTest/KebapTest/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" />
+
+![](https://raw.githubusercontent.com/kebapTest/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kebapTest/github-stats/master/generated/languages.svg#gh-light-mode-only)
