@@ -15,6 +15,3 @@ LOADING...
 
 <a href="https://github.com/kebapTest/KebapTest/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" />
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KebapTest?cardType=github&theme=github-dark)](https://github.com/kebapTest/KebapTest/blob/main/README.md)
