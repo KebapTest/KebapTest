@@ -12,5 +12,6 @@ Hello Wolrd! Live in Türkiye...
 
 <img src="https://github-readme-stats.vercel.app/api?username=kebapTest&show_icons=true&theme=highcontrast" align="left" width="450" height="350" >
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=kebapTest)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=kebapTest)](https://github.com/kebapTest/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=kebapTest&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
