@@ -19,5 +19,3 @@ LOADING...
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" align="right" >
-
