@@ -17,4 +17,4 @@ LOADING...
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" />
 
 
-![KebapTest's github stats](https://github-readme-stats.vercel.app/api?username=KebapTest&hide=contribs,prs)
+![KebapTest's github stats](https://github-readme-stats.vercel.app/api?username=KebapTest&hide=contribs)
