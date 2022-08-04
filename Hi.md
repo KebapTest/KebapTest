@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Hello Wolrd! Live in Türkiye...
 
+<img src="https://github-readme-stats.vercel.app/api?username=kebapTest&show_icons=true&theme=highcontrast" align="left" width="450" height="350" >
+
