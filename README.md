@@ -12,7 +12,7 @@ Hello Wolrd! Live in Türkiye...
 
 LOADING...
 
-[![KebapTest'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast)](https://github.com/kebapTest/KebapTest/blob/main/README.md)
+[[KebapTest'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast)](https://github.com/kebapTest/KebapTest/blob/main/README.md)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
