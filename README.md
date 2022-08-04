@@ -17,3 +17,10 @@ LOADING...
 
 [![KebapTest'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=KebapTest)](https://github.com/kebapTest/KebapTest/blob/main/README.md)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
