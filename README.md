@@ -13,5 +13,5 @@ Hello Wolrd! Live in Türkiye...
 LOADING...
 
 
-<a href="https://github.com/kebapTest/KebapTest/blob/main/README.md">
+<a href="https://github.com/KebapTest/KebapTest/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" />
