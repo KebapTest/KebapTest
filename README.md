@@ -14,6 +14,6 @@ LOADING...
 
 
 <a href="https://github.com/kebapTest/KebapTest/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=false&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KebapTest&show_icons=true&theme=highcontrast" />
 
 
